@@ -1,4 +1,4 @@
-console.log("Hello, world");
-console.log("This is so cool!");
-console.log("I have linked the js file to the HTML!");
-console.log("Here is a new console.log")
+console.log("Hey bram just practicing git! Thank you for teaching me!");
+console.log("slowly but surely learning");
+console.log("hey bram just doing some more practice so I don't forget");
+console.log("I have a lot to learn");
